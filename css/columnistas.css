@@ -1,0 +1,80 @@
+.cuadro-gris{		/* cuadro bg gris */
+	background-color: #E2E6E9;
+	width: 100%
+	height:100px;
+	padding: 8% 2%;
+}
+.borde, .cuadro-gris:hover{
+	border: 1px solid #B0B1B1;
+}
+.cuadro-gris:hover{
+	background-color: #fff;
+}
+.p6{	/* texto de .6 em Nombres */
+	font-size: .6em;
+	margin-top: 8%;
+}
+#p6{
+	margin-left: 8%;
+}
+#h4{
+	padding-bottom: 10%;
+}
+h5{
+	color:#919191;
+	margin-left: 7%;
+}
+h5, .p6{
+	font-weight: bold;
+}
+.mt-2{
+	margin-top: 2%;
+}
+.btn-red{
+	background-color: #BA1414;
+	padding: .5% 5%;
+	border-radius:2px;
+	border:1px solid #BA1414;
+}
+.btn-abc:hover, .btn-all:hover, .btn-red:hover{
+	background-color: #fff;
+	color:#BA1414;
+	font-size: 1em;
+	font-weight: bold;
+}
+.nav-abc{
+	background-color: #B61910;
+	width: 100%;
+	height: 50px;
+
+}
+.btn-red, .nav-abc{
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+li{
+	list-style: none;
+	display: inline;
+	margin-left: 2%;
+}
+.btn-all{
+	background-color: #811110;
+}
+.active{
+	background-color:#D90000!important; 
+}
+.btn-abc{
+	background-color: #B61910;
+}
+.btn-abc, .btn-all{
+	border-radius: 16px;
+	padding:.5% 2%; 
+	border:none; 
+	margin-top: 1%;
+}
+.btn-abc, .btn-red, .btn-all{
+	color:#fff;
+}
+
+/* Media */
+
