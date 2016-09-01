@@ -1,0 +1,15 @@
+/*los inputs y el textarea mide tanto y tiene cierto font size*/
+.input, textarea{
+	width:60% !important; 
+	font-size:100%;
+}
+/*altura del textarea*/
+textarea{
+	height:30%;
+}
+.f-size10{
+	font-size:70%;
+}
+.f-size12{
+	font-size:100%;
+}
