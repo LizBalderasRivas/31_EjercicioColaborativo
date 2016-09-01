@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Escribe aquí tu código */
                            /* Parte de Flor */
 a{
@@ -78,3 +79,61 @@ a{
 	padding: 3%;
 	margin-top: -15%;
  }
+=======
+<<<<<<< HEAD
+/* LIL*/
+a{
+	text-decoration: none !important;
+}
+h1{
+	color:black !important;
+}
+ul.dp{
+	display: inline-block !important;
+}
+ul li {
+	list-style: none;
+}
+=======
+/* Escribe aquí tu código */
+/*Inicia codigo de Faby*/
+
+@media screen and (min-width:920px){
+.flecha{
+	display: inline-block;
+}
+
+.size{
+	font-size:0.6em;
+}
+
+.pdt-2{
+	padding-top: 2%;
+}
+
+.pdt-3{
+	padding-top: 3%;
+}
+}
+
+@media screen and (max-width:600px){
+.flecha{
+	display: inline-block;
+}
+
+.size{
+	font-size:0.5em;
+}
+
+.pdt-2{
+	padding-top: 0%;
+	margin-top: -2%;
+}
+
+.pdt-3{
+	padding-top: 0%;
+}
+}
+/*Termina codigo de Faby*//* Escribe aquí tu código */
+>>>>>>> Faby-index/main
+>>>>>>> efabfba73d4d017f49014b4f89bddccf36d2e254

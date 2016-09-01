@@ -1,0 +1,90 @@
+/*JACKIE BENITEZ INICIA*/
+.border-edit{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	width:50%;
+	height:60%!important;
+}
+.move-man{
+	position:absolute;
+	right:1%;
+}
+/*font-size*/
+.f-size10{
+	font-size:70%;
+}
+.f-size12{
+	font-size:100%;
+}
+/*iconos de redes sociales margen*/
+i{
+	margin:3%;
+}
+/*Margenes*/
+.mg-bottom3{
+	margin-bottom:3%;
+}
+.mg-bottom6{
+	margin-bottom:5%;
+}
+.mg-top3{
+	margin-top: 2%;
+}
+.mg-top6{
+	margin-top:6%;
+}
+.mg-0{
+	margin: 0%;
+	padding: 0%;
+}
+.mg-left{
+	margin-left: 20%;
+}
+/*Backgrounds*/
+.bg-gris{
+	background-color: #e7e7e7;
+}
+.bg-red{
+	background-color: #ba1414;
+}
+/*texto de color blanco*/
+.tx-white{
+	color:white;
+	background-color: black;
+}
+/*todos los li dentro de ul*/
+ul>li{
+	margin:0%;
+	padding-top:1%;
+}
+/*Social Media colors*/
+.face{
+	color:#3b5998;
+}
+.twitter{
+	color:#55acee;
+}
+.google{
+	color:#dd4b39;
+}
+.envelope{
+	color:#e95950;
+}
+.rss{
+	color:#ff6600;
+}
+/*Media Queries*/
+@media screen and (max-width: 768px) {
+	.media-ft{
+		padding:3%;
+		text-align: center;
+	}
+	.logo{
+		width:100%;
+		height:100%;
+		margin-left:60%;
+		margin-top:5%;
+		margin-bottom:10%;
+	}
+}
+/*JACKIE BENITEZ TERMINA*/
