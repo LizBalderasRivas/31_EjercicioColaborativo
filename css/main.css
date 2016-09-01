@@ -1,1 +1,80 @@
 /* Escribe aquí tu código */
+                           /* Parte de Flor */
+a{
+	text-decoration: none;
+	color: black;
+}            
+                          /* Parte del boletin */
+/* margin y padding */
+.pd0{
+	padding: 0% !important;
+}
+.mg0{
+	margin: 0% !important;
+}
+/* .mt-120{
+	margin-top: 120%;
+} */
+.mt-5{
+	margin-top: 5%;
+} 
+/* Mover letreros */
+.movergray{
+	margin-top: -15%;
+}
+/* Displays */
+.absolute{
+	position: absolute;
+}
+.relative{
+	position: relative;
+}
+/* Colores de letras */
+.purple{
+	color: purple;
+}
+.white{
+	color: white;
+}
+.red{
+	color: red;
+}
+/* hr propiedades */
+/* propiedad general */
+.hr{
+	width: 40%;
+	border: 5px solid;
+}
+.hrgray{
+	border-color: gray;
+	width: 100% !important;
+}
+/* colores hr */
+#hrpurple{
+	border-color: purple;
+	margin-bottom: 0% !important;
+}
+/* Fondo gris de los letreros */
+.bg-gray{
+	background-color: gray;
+	width: 50%;
+	padding: 3%;
+}
+/* background puntitos del boletin */
+/* .bg-puntitos{
+      	background-image: url("../image/puntos.jpg");
+      	background-size: 100%;
+      	width: 100%;
+      } */     
+/*  .bg-puntito{
+ 	border: 1px dotted black;
+ }      */ 
+ .borde{
+ 	border: solid 1px black;
+ }                                         
+ .bg-whiteopacity{
+ 	background-color: rgba(255, 255, 255, 0.9);
+	width: 100%;
+	padding: 3%;
+	margin-top: -15%;
+ }
