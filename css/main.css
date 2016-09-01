@@ -1,1 +1,23 @@
-/* Escribe aquí tu código */
+/* LIL*/
+a{
+	text-decoration: none !important;
+}
+h1{
+	color:black !important;
+}
+ul.dp{
+	display: inline-block !important;
+}
+ul li {
+	list-style: none;
+}
+.fa-facebook{
+	color: blue;
+}
+
+.fa-twitter{
+	color:aqua;
+}
+.fa-google-plus{
+	color:red;
+}
